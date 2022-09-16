@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772029960121",
+    "project_id": "itmchatnew",
+    "storage_bucket": "itmchatnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772029960121:android:91867d1c993e9cc40f7068",
+        "android_client_info": {
+          "package_name": "com.example.messenger_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772029960121-t2ot62i2neabar3q8cicd2cg005bucdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ6d21ikhJGwjyTOe2pDvYot-AG7WpP78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772029960121-t2ot62i2neabar3q8cicd2cg005bucdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
